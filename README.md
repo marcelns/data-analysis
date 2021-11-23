@@ -1,2 +1,2 @@
 # regression
-Regression Theory, implementation and practice.
+Regression theory, implementation and practice.
