@@ -8,6 +8,7 @@ __pycache__/
 
 # miscellaneous
 .ipynb
+.ipynb_checkpoints
 
 # Distribution / packaging
 .Python
