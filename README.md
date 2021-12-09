@@ -10,3 +10,4 @@ Each Notebook has some theory and analysis with real and generated data.
 - model_selection: It is possible to model the same data with different models, but which one is more efficient and the best?
 - bayes_classifier: A family of simple "probabilistic classifiers" based on applying Bayes' theorem.
 - bayes_naive_classifier: A simple case of a bayes classifier with strong (naïve) independence assumptions between the features.
+- decision_trees: One of the predictive modelling approaches used in machine learning. The goal is to create a model that predicts the value of a target variable based on several input variables.
