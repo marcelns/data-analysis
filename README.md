@@ -1,5 +1,7 @@
 # Data Analysis Practice
 
+This is a repository with some exercises in data analysis, the majority of it is based on Francisco Rodrigues (francisco@icmc.usp.br) Introduction to Data Science class on Sao Paulo University.
+
 ## Notebooks
 Each Notebook has some theory and analysis with real and generated data.
 
