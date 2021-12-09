@@ -1,2 +1,6 @@
-# regression
-Regression theory, implementation and practice.
+# Data Analysis Practice
+
+## Techniques used
+
+- Regression
+- Random Forest
